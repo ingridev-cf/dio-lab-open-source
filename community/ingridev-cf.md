@@ -22,6 +22,7 @@ I'm a ystem Analysis and Developement student focusing on building a solid found
 - Teamwork;
 - Bias for action;
 - Self organization and agile methodologies;
+- Detail oriented;
 - Curious and will to learn;
 
 ## Languages
